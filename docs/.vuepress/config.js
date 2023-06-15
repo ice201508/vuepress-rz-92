@@ -8,7 +8,7 @@ module.exports = {
   ],
   // github 部署的地址是 /   对应 history 模式看看
   // gitee  部署的地址是 /renzi_89/ 或者./ 都可以 -----   app.js 文件 采用history模式，刷新不报错
-  // rz_doc_92
+  // /rz_doc_92/
   base: "/", // 开发不用，打包时候放开  目标地址是：https://openhacking.github.io/vuepress-template/，所以需要配置base地址后缀
   // base: '/',
   plugins: [
