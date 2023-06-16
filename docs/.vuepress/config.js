@@ -9,7 +9,7 @@ module.exports = {
   // github 部署的地址是 /   对应 history 模式看看
   // gitee  部署的地址是 /renzi_89/ 或者./ 都可以 -----   app.js 文件 采用history模式，刷新不报错
   // /rz_doc_92/
-  base: "/", // 开发不用，打包时候放开  目标地址是：https://openhacking.github.io/vuepress-template/，所以需要配置base地址后缀
+  base: "/rz_doc_92/", // 开发不用，打包时候放开  目标地址是：https://openhacking.github.io/vuepress-template/，所以需要配置base地址后缀
   // base: '/',
   plugins: [
     "@vuepress/back-to-top",
@@ -52,7 +52,7 @@ module.exports = {
               },
               {
                 text: "老师上课码云地址",
-                link: "https://gitee.com/errlei/rz_89",
+                link: "https://gitee.com/errlei/rz_92",
               },
               {
                 text: "人资预览网站",
