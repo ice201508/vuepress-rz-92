@@ -11,8 +11,3 @@
 + [day08-uni-app项目](./08.md)
 + [day09-uni-app项目](./09.md)
 + [day10-uni-app项目](./10.md)
-
-**uni-app第二个项目**  
-资料与视频下载地址（百度网盘）    
-链接：https://pan.baidu.com/s/1Z-z0kr6vdTnQ6qKZT0sENg?pwd=w7bx 
-提取码：w7bx
